@@ -1,7 +1,7 @@
 [
-    {"id": 1, "nome": "João", "email": "Joao@gmail.com"},
-    {"id": 2, "nome": "Andre", "email": "Andre@gmail.com"},
-    {"id": 3, "nome": "Luzia", "email": "Luzia@hotmail.com"},
-    {"id": 4, "nome": "Francisco", "email": "Francisco@outlook.com"},
-    {"id": 5, "nome": "Carlos", "email": "Carlos@hotmail.com"}
+    {"id": 1, "nome": "Andre", "email": "Andre@gmail.com"},
+    {"id": 2, "nome": "Kaua", "email": "Kaua@hotmail.com"},
+    {"id": 3, "nome": "Itallo", "email": "Itallo@gmail.com"},
+    {"id": 4, "nome": "Paulo", "email": "Paulo@outlook.com"},
+    {"id": 5, "nome": "Francisco", "email": "Francisco@hotmail.com"}
 ]
